@@ -7,6 +7,7 @@ int add(int a, int b) {
 }
 
 int sub(int a, int b) {
+    cout << "Subtracting " << a << " and " << b << endl;
     return a-b;
 }
 

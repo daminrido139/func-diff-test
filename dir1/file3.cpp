@@ -2,14 +2,6 @@
 using namespace std;
 
 
-
-
-
-
-
-
-
-
 int func5(int a, int b) {
     cout << "Adding " << a << " and " << b << endl;
     return a+b;
